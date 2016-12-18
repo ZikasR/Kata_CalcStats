@@ -2,6 +2,8 @@
 		- Dotnet core, C#
 		/
 		|-- src
-	  |-- tst
+		|-- tst
 	  
 ------------
+
+git clone https://github.com/ZikasR/Kata_Starter_DotnetCore_CSharp.git .
